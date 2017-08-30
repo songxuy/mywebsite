@@ -1,0 +1,81 @@
+*{
+    padding:0px;
+    margin:0px;
+  
+    
+}
+.from{
+    width:395px;
+    height:200px;
+    margin-top:10px;
+    background:#eee;
+    display:none;
+}
+.from h2{
+    font-size:20px;
+    font-family:'Microsoft YaHei';
+    color:#00ffff;
+}
+.from  .file{
+    border-color:#ff0000;
+    width:200px;
+     height:50px;
+}
+.from .sub{
+    width:50px;
+    height:30px;
+    background:#09a6f6;
+    border-color:#030000;
+    color:#ffffff;
+    
+}
+.from .sss1 {
+    width:50px;
+    height:30px;
+    background:#ffd800;
+    border-color:#030000;
+    color:#ffffff;
+}
+.from .hao{
+    margin-top:100px;
+    margin-left:250px;
+}
+.more1{
+	width:65px;
+	height:150px;
+	background:#17ADBD;
+	margin-left:900px;
+	position:absolute;
+}
+.more1 ul{
+	list-style:none;
+    margin-top:0px;
+    
+
+}
+.more1 ul li span{
+	color:#fff;
+    line-height:40px;
+    text-align:center;
+    
+}
+.more1 ul li span:hover{
+	cursor:pointer;
+}
+.more1{
+	display:none;
+}
+.se:hover{
+	cursor:pointer;
+}
+.div1 ul li:hover{
+	cursor:pointer;
+}
+.top span{
+	font-size:30px;
+	font-family:Verdana;
+	margin-left:90px;
+}
+
+
+

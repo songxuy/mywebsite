@@ -1,0 +1,279 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.top{
+    height:70px;
+    overflow:hidden;
+    margin-top:50px;
+}
+.top img{
+    margin-left:0px;
+    width:1150px;
+    margin-left:95px;
+   
+}
+.nav{
+    height:15px;
+}
+.menu{
+    height:450px;
+    
+    /*background: url('image/1.jpg') -200px;*/
+}
+
+.div1{
+    height:40px;
+    overflow:hidden;
+    background:#17ADBD;
+    width:1145px;
+    color:#fff;
+    margin-left:95px;
+    margin-top:50px;
+}
+.div1 ul{
+    width:1200px;
+    margin:0 auto ;  
+    list-style:none;
+
+}
+.div1 ul li{
+    float:left;
+    text-align:center;
+    line-height:40px;
+    margin-left:100px;
+}
+.div1 .odd{
+    background:#00fffb;
+    width:150px;
+    margin-left:0px;
+}
+.div1 ul li a:hover{
+    cursor:pointer;
+}
+.div1 ul li a{
+    color:#fff;
+}
+.div2{
+    height:450px;
+    width:1160px;
+    position:absolute;
+    margin:0 auto;
+    margin-left:95px;
+}
+.div3{
+    height:450px;
+    width:150px; 
+    background:#0a95fe;
+}
+.div3 ul{
+    list-style:none;
+    margin-top:0px;
+    
+}
+.div3 ul li span{
+    color:#fff;
+    padding-left:40px;
+    line-height:50px;
+    text-align:center;
+}
+.div3 ul li span:hover{
+   
+    cursor:pointer;
+   
+}
+.div2{
+	display:none;
+}
+ .imgs img{
+    height:450px;
+    width:1145px;
+    margin-left:95px;
+     position:absolute;
+}
+ .imgs{
+     position:relative;
+ }
+ .tabs{
+    top:700px;
+    left:540px;
+    position:absolute;
+    
+}
+ .tab{
+    width:25px;
+    height:25px;
+    background-color:#00fffb;
+    float:left;
+    text-align:center;
+    line-height:25px;/*行高*/
+    color:#fff;
+    margin-right:30px;
+    border-radius:100%;
+    cursor:pointer;
+    
+}
+
+.odd:hover{
+	cursor:pointer;
+}
+#header{
+    width:100%;
+    height:5px;
+    
+}
+#head{
+    width:1200px;
+    height:5px;
+    /*水平居中*/
+    margin-left:80px;
+    color:#d1cece;
+}
+#head div{
+    float:left;
+    line-height:5px;
+    margin-left:10px;
+    margin-top:15px;
+}
+a{
+    text-decoration:none;
+}
+#head div a{
+    color:#0a95fe;
+}
+#head div a:hover{
+    color:#ff0000;
+}
+.ls input{
+    width:350px;
+    height:40px;
+     float:left;
+    border:none;
+    background:none;
+    height:40px;
+    line-height:30px;
+     
+    text-indent:42px;
+}
+.ss input{
+    width:354px;
+    height:50px;
+    background-color:#0a95fe;
+    display:block;
+    text-align:center;
+    line-height:50px;
+    color:#fff;
+    font-size:30px;
+    margin-top:20px;
+}
+
+.ser{
+    height:150px;
+    width:1200px;
+    margin-left:0px;
+}
+.ser .log img{
+    width:152px;
+    height:130px;
+    margin-left:95px;
+}
+.ser .log img.border{
+        padding: 5px;
+        background: #fff;
+}
+
+.ser .log button{
+	margin-left:0px;
+	margin-top:-60px;
+	width:70px;
+	height:35px;
+	background:#73D7F5;
+	border-radius:100%;
+	color:#fff;
+	font-size:12px;
+}
+
+body{
+    background:url(../image/qq2.webp.jpg) ;
+    background-size:cover;  
+    
+}
+.bg{
+    background-color:#ff0000;
+}
+.ser .nav{
+    width:500px;
+    height:100px;
+    background-color:#fff;
+    margin-left:400px;
+    margin-top:-130px;
+}
+.ser .nav .word{
+	width:500px;
+	height:50px;
+    margin-left:90px;
+    line-height:65px;
+}
+.ser .nav .word1{
+	width:500px;
+	height:50px;
+    line-height:0px;
+    margin-left:30px;
+}
+.ser .nav .word ul li{
+     float:left;
+     list-style:none;
+     font-size:28px;
+     margin-left:25px;
+}
+.ser .nav .word1 ul li{
+	float:left;
+     list-style:none;
+     font-size:28px;
+     margin-left:100px;
+}
+
+#hf .name{
+	color:#0a95fe;
+	margin-top:-1px;
+}
+.logout a{
+	color:#0a95fe;
+	
+}
+#head .logout{
+	margin-left:1065px;
+	margin-top:-5px;
+}
+.headimg{
+	width:350px;
+	height:230px;
+	display:none;
+}
+.headimg #up_img{
+	width:152px;
+	margin-left:120px;
+}
+.headimg #imgdiv{
+	margin-left:120px;
+}
+.headimg .iup{
+	width:395px;
+	height:180px;
+	background:#eee;
+}
+.headimg #uph{
+	width:60px;
+	height:35px;
+	background:#17ADBD;
+	color:#fff;
+	margin-left:280px;
+	margin-top:10px;
+}
+
+
+
+
+
+
+

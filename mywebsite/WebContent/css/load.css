@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+*{
+	padding:0px;
+	margin:0px;
+	font-family:microsoft YAHEI;
+}
+body{
+	background:url(../image/bg1.jpg) no-repeat;
+	
+}
+.load{
+	width:450px;
+	height:310px;
+	background:#fff;
+	margin-left:150px;
+	margin-top:200px;
+	overflow:hidden;
+}
+.load .top{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+}
+.load .top p{
+	margin-top:10px;
+	font-size:14px;
+}
+.load .top h4{
+	margin-top:10px;
+	font-size:24px;
+	font-weight:200;
+}
+.load input{
+	width:300px;
+	height:40px;
+	margin-left:75px;
+	margin-top:20px;
+}
+.load .end{
+	margin-left:250px;
+	margin-top:20px;
+	font-size:14px;
+}
+.load #load{
+	font-size:20px;
+	background:#0a95fe;
+	color:#fff;
+}
+.logo{
+	width:250px;
+	height:100px;
+	background:url(../image/qzone1.png) no-repeat;
+	margin-left:800px;
+	margin-top:-375px;
+}
+.rights{
+	text-align:center;
+	margin-top:350px;
+}

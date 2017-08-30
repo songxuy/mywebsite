@@ -1,0 +1,87 @@
+
+.showing{
+	width:1000px;
+	height:600px;
+	background:#fff;
+	margin-left:180px;
+	margin-top:0px;
+    position:absolute;
+    margin-top:-600px;
+    display:none;
+}
+.showing .showmsg{
+	width:1000px;
+	height:50px;
+	background:#EBF7FD;
+}
+.showing .showmsg ul li{
+	float:left;
+	list-style:none;
+	margin-left:30px;
+	margin-top:15px;
+	font-size:14px;
+	color:#2595C7;
+}
+.showing .showmsg ul .showm{
+	margin-left:-575px;
+	color:#000;
+	font-size:18px;
+}
+
+.showing .showmsg ul{
+	margin-left:650px;
+}
+.showing .smain{
+	width:950px;
+	height:500px;
+	background:#F3F0DD;
+	margin-left:25px;
+}
+.showing .smain #name{
+	background:#F3F0DD;
+	text-align:center;
+	width:450px;
+	height:50px;
+	margin-left:250px;
+	margin-top:50px;
+	font-size:20px;
+	font-weight:bold;
+	color:#000000;
+	border: #ccc;
+	border-style: dashed;
+	border-top-width: 1px;
+	border-right-width: 1px; 
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	
+}
+.showing .smain #body{
+	margin-left:22px;
+	margin-top:40px;
+	background:#F3F0DD;
+	border: #ccc;
+	border-style: dashed;
+	 border-top-width: 1px;
+	 border-right-width: 0px; 
+	 border-bottom-width: 1px;
+	 border-left-width: 0px;
+}
+.showing .sbtn{
+	width:950px;
+	height:80px;
+	margin-left:25px;
+}
+.showing .sbtn input{
+	margin-top:10px;
+}
+.showing .sbtn #sub{
+	width:80px;
+	height:25px;
+	background:#5CAAE6;
+	color:#fff;
+	border: 1px solid #4899d7;
+	
+}
+.showing .sbtn input:hover{
+	cursor:pointer;
+}

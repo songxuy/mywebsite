@@ -1,0 +1,297 @@
+@CHARSET "UTF-8";
+*{
+	padding:0px;
+	margin:0px;
+}
+.top{
+	width:100%;
+	height:41px;
+	background:#17ADBD;
+	text-align:center;
+}
+.top img{
+	height:41px;
+	width:100px;
+	float:left;
+	margin-left:200px;
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+.top span{
+	font-family:Verdana;
+	color:#eee;
+	font-size:26px;
+	line-height:40px;
+	margin-left:-200px;
+}
+.back{
+	background:url(../image/qq2.webp.jpg) ;
+    background-size:cover;  
+    height:1000px;
+}
+.name{
+	width:100%;
+	height:50px;
+	line-height:100px;
+}
+.name span{
+	color:#17ADBD;
+	font-size:20px;
+	font-family:STKaiti;
+	margin-left:175px;
+}
+.head{
+	width:100%;
+	height:120px;
+}
+.head img{
+	width:120px;
+	height:120px;
+	margin-left:180px;
+	margin-top:50px;
+}
+.head img.border{
+	padding: 5px;
+        background: #fff;
+}
+
+.head .ttop{
+	width:200px;
+	height:50px;
+	margin-top:-110px;
+	margin-left:320px;
+}
+.head .ttop span{
+	color:#157c8c;
+	font-size:20px;
+	font-family:STKaiti;
+}
+.head ul li{
+	float:left;
+	list-style:none;
+	margin-left:35px;
+	
+}
+.head ul{
+	margin-left:300px;
+	margin-top:40px;
+	
+}
+.head ul li span{
+	font-size:15px;
+	font-family:Microsoft YaHei;
+}
+.main{
+	width:1309;
+	height:700px;
+	background:#DCF1F5;
+	margin-top:100px;
+	margin-left:20px;
+}
+.main .menu{
+	height:50px;
+}
+ul li{
+	list-style:none;
+}
+ul li:hover{
+	cursor:pointer;
+}
+.main .menu1 ul li{
+	line-height:50px;
+	float:left;
+	margin-left:50px;
+	color:#7e8a8c;
+}
+.main .menu2 ul li{
+	line-height:50px;
+	float:right;
+	margin-right:50px;
+	color:#7e8a8c;
+}
+.main  hr{
+	width:1209px;
+	margin-left:50px;
+    *margin: 0;
+    border: 0;
+    color: black;
+    background-color:#C7E5EB; 
+    height: 2px
+}
+.main .name1{
+	height:110px;
+	width:1195px;
+}
+.main .name1 img{
+	height:70px;
+	width:70px;
+	margin-top:30px;
+	margin-left:50px;
+}
+.main .name1 img.border{
+	padding: 5px;
+        background: #fff;
+}
+.main .name1 .sum{
+	margin-top:-80px;
+	margin-left:145px;
+}
+.main .name1 .btn1 button{
+	width:140;
+	height:40px;
+	background:#73D7F5;
+	border-radius:5%;
+	margin-left:145px;
+	margin-top:18px;
+	border:0px;
+	color:#fff;
+	font-size:16px;
+}
+button:hover{
+	cursor:pointer;
+}
+.main .name1 .btn2 button{
+	width:80;
+	height:40px;
+	background:#fff;
+	border-radius:5%;
+	margin-left:400px;
+	margin-top:-55px;
+	border:0px;
+	font-size:16px;
+}
+.main .name1 .btn3 button{
+	width:80;
+	height:40px;
+	background:#fff;
+	border-radius:5%;
+	margin-left:300px;
+	margin-top:-55px;
+	border:0px;
+	font-size:16px;
+}
+.main .showimg ul li{
+	width:158px;
+	height:163px;
+	margin-top:40px;
+	margin-left:50px;
+	float:left;
+}
+.main .showimg ul{
+	margin-left:-30px;
+}
+.main .showimg ul li img{
+	width:158px;
+	height:100px;
+}
+.main .showimg ul li .time{
+	width:158px;
+	height:35;
+	background:#F2FFFF;
+	margin-top:-8px;
+	text-align:center;
+	line-height:35px;
+	font-size:14px;
+}
+.from{
+    width:395px;
+    height:200px;
+    margin-top:10px;
+    background:#eee;
+    display:none;
+}
+.from h2{
+    font-size:20px;
+    font-family:'Microsoft YaHei';
+    color:#00ffff;
+}
+.from  .file{
+    border-color:#ff0000;
+    width:200px;
+     height:50px;
+}
+.from .sub{
+    width:50px;
+    height:30px;
+    background:#09a6f6;
+    border-color:#030000;
+    color:#ffffff;
+    
+}
+.from .sss1 {
+    width:50px;
+    height:30px;
+    background:#ffd800;
+    border-color:#030000;
+    color:#ffffff;
+}
+.from .hao{
+    margin-top:100px;
+    margin-left:250px;
+}
+.dele{
+	width:1309;
+	height:700px;
+	background:#DCF1F5;
+	margin-top:-700px;
+	margin-left:20px;
+	position:absolute;
+    display:none;
+}
+.dele .demenu{
+	height:55px;
+	width:1309;
+	background:#2E8DED;
+}
+.dele .demenu .alls{
+	height:25px;
+	width:25px;
+	background:#fff;
+    margin-top:15px;
+	margin-left:50px;
+	position:absolute;
+}
+.dele .demenu span{
+	margin-left:80px;
+	line-height:55px;
+	color:#fff;
+}
+.dele .demenu #del{
+	width:80px;
+	height:30px;
+	background:#4FA7FF;
+	border:0px;
+	color:#fff;
+	float:right;
+	margin-right:130px;
+	margin-top:15px;
+}
+.dele .demenu button{
+	width:80px;
+	height:30px;
+	background:#fff;
+	border:0px;
+	color:#000;
+	float:right;
+	margin-right:-200px;
+	margin-top:15px;
+}
+.dele .demenu #del:hover{
+	cursor:pointer;
+}
+.dele .showimg ul li{
+	width:158px;
+	height:163px;
+	margin-top:40px;
+	margin-left:50px;
+	float:left;
+}
+.dele .showimg ul{
+	margin-left:10px;
+}
+.dele .showimg ul li img{
+	width:158px;
+	height:100px;
+}
